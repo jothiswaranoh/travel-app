@@ -1,0 +1,8 @@
+$fontsize:40px;
+$lineheight:50px;
+$letterspace:1px;
+.font{
+    font-size: $fontsize;
+    line-height:$lineheight ;
+    letter-spacing: $letterspace;
+}
